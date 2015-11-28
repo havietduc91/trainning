@@ -10,8 +10,3 @@ Hoang
 task_1_1
 
 Dev 02 change file
-
-test file changed by quang
-asdl;fj;sadfsadflkj
-asdl;fj;sadfsadflkj24234234234234awdawdawd
-conflitch cu de anh
